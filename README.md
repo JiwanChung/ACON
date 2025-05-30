@@ -15,13 +15,10 @@
 ## Citation
 If you find our work valuable, please cite:
 ```bibtex
-@misc{chung2025dontlookoncemultimodal,
-      title={Don't Look Only Once: Towards Multimodal Interactive Reasoning with Selective Visual Revisitation}, 
-      author={Jiwan Chung and Junhyeok Kim and Siyeol Kim and Jaeyoung Lee and Min Soo Kim and Youngjae Yu},
-      year={2025},
-      eprint={2505.18842},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2505.18842}, 
+@inproceedings{chung2025are,
+  title={Are Any-to-Any Models More Consistent Across Modality Transfers Than Specialists?},
+  author={Chung, Jiwan and Yoon, Janghan and Park, Junhyeong and Lee, Sangeyl and Yang, Joowon and Park, Sooyeon and Yu, Youngjae},
+  booktitle={Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  year={2025}
 }
 ```
