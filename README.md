@@ -1,7 +1,7 @@
 # Are Any-to-Any Models More Consistent Across Modality Transfers Than Specialists?
 
 
-[![arXiv](https://img.shields.io/badge/arXiv-tbu-b31b1b.svg)](https://arxiv.org/abs/tbu) [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-ACON-FFD21E)](https://huggingface.co/datasets/jiwan-chung/ACON)
+[![arXiv](https://img.shields.io/badge/arXiv-tbu-b31b1b.svg)](https://arxiv.org/abs/2505.24211) [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-ACON-FFD21E)](https://huggingface.co/datasets/jiwan-chung/ACON)
 
 <p align="center">
   <img src="assets/figure.png">
